@@ -1,0 +1,17 @@
+C:\Users\Malik Babayev\source\repos\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Malik Babayev\source\repos\Library\Library\bin\Debug\Library.exe
+C:\Users\Malik Babayev\source\repos\Library\Library\bin\Debug\Library.pdb
+C:\Users\Malik Babayev\source\repos\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Malik Babayev\source\repos\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\Malik Babayev\source\repos\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Malik Babayev\source\repos\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Malik Babayev\source\repos\Library\Library\obj\Debug\Library.exe
+C:\Users\Malik Babayev\source\repos\Library\Library\obj\Debug\Library.pdb
+C:\Users\Malik Babayev\source\repos\Library\Library\obj\Debug\Library.AddReaders.resources
+C:\Users\Malik Babayev\source\repos\Library\Library\obj\Debug\Library.ViewBooks.resources
+C:\Users\Malik Babayev\source\repos\Library\Library\bin\Debug\EntityFramework.dll
+C:\Users\Malik Babayev\source\repos\Library\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Malik Babayev\source\repos\Library\Library\bin\Debug\EntityFramework.xml
+C:\Users\Malik Babayev\source\repos\Library\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Malik Babayev\source\repos\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Malik Babayev\source\repos\Library\Library\obj\Debug\Library.BookForm.resources
